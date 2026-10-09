@@ -226,7 +226,7 @@
         <mxCell id="9UrtLrw1Ac2kv8BX72rL-90" value="GenreID(PK) (FK)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9UrtLrw1Ac2kv8BX72rL-88">
           <mxGeometry y="60" width="181" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9UrtLrw1Ac2kv8BX72rL-93" value="Appear In" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9UrtLrw1Ac2kv8BX72rL-93" value="Have" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="45" y="870" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9UrtLrw1Ac2kv8BX72rL-94" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9UrtLrw1Ac2kv8BX72rL-46" target="9UrtLrw1Ac2kv8BX72rL-89">
