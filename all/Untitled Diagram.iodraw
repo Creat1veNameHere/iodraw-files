@@ -52,16 +52,13 @@
         <mxCell id="9UrtLrw1Ac2kv8BX72rL-13" value="PhoneNumber (FK)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9UrtLrw1Ac2kv8BX72rL-10">
           <mxGeometry y="240" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9UrtLrw1Ac2kv8BX72rL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9UrtLrw1Ac2kv8BX72rL-8" target="9UrtLrw1Ac2kv8BX72rL-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9UrtLrw1Ac2kv8BX72rL-20" value="Creates" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9UrtLrw1Ac2kv8BX72rL-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="410" as="sourcePoint" />
-            <mxPoint x="350" y="360" as="targetPoint" />
+            <mxPoint x="150" y="240" as="sourcePoint" />
+            <mxPoint x="200" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
