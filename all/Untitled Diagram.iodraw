@@ -218,7 +218,7 @@
           <mxGeometry x="-320" y="600" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9UrtLrw1Ac2kv8BX72rL-88" value="BookGenres" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239" y="750" width="181" height="90" as="geometry" />
+          <mxGeometry x="239" y="760" width="181" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9UrtLrw1Ac2kv8BX72rL-89" value="BookID (PK) (FK)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9UrtLrw1Ac2kv8BX72rL-88">
           <mxGeometry y="30" width="181" height="30" as="geometry" />
@@ -229,7 +229,7 @@
         <mxCell id="9UrtLrw1Ac2kv8BX72rL-93" value="Appear In" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="45" y="870" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9UrtLrw1Ac2kv8BX72rL-94" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9UrtLrw1Ac2kv8BX72rL-50" target="9UrtLrw1Ac2kv8BX72rL-89">
+        <mxCell id="9UrtLrw1Ac2kv8BX72rL-94" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9UrtLrw1Ac2kv8BX72rL-46" target="9UrtLrw1Ac2kv8BX72rL-89">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="920" as="sourcePoint" />
             <mxPoint x="560" y="920" as="targetPoint" />
