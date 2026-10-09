@@ -180,7 +180,10 @@
           <mxGeometry x="239" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9UrtLrw1Ac2kv8BX72rL-112" value="Books" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="-120" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9UrtLrw1Ac2kv8BX72rL-113" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
